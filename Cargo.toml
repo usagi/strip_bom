@@ -1,0 +1,12 @@
+[package]
+authors = ["USAGI.NETWORK / Usagi Ito <the@usagi.network>"]
+categories = ["encoding"]
+description = "Add a simple BOM striping feature for `str` and `String`."
+documentation = "https://docs.rs/strip_bom"
+edition = "2018"
+keywords = ["BOM", "str", "String", "UTF-8", "strip"]
+license = "MIT"
+name = "strip_bom"
+readme = "README.md"
+repository = "https://github.com/usagi/strip_bom"
+version = "1.0.0"
